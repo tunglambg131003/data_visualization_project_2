@@ -40,7 +40,7 @@ All data processing scripts will be fully documented and reproducible within the
 
 The project is structured around the following primary research inquiries:
 
-# **Research Question 1: How did the transmission, hospitalization, mortality, and recovery patterns of COVID-19 differ among NYC boroughs, and how do these local patterns compare to national and global trends over time?**
+**Research Question 1: How did the transmission, hospitalization, mortality, and recovery patterns of COVID-19 differ among NYC boroughs, and how do these local patterns compare to national and global trends over time?**
 
 The COVID-19 pandemic has exhibited significant spatial variation, with urban environments like New York City (NYC) experiencing unique epidemiological patterns due to factors such as population density, socio-economic disparities, and healthcare access. NYC is one of the most populous and diverse cities globally, with boroughs exhibiting varying demographic profiles and public health infrastructure. Thus, understanding how the pandemic unfolded within each of the five boroughs is crucial for effective policy formulation and resource allocation. 
 
@@ -48,7 +48,7 @@ This research question seeks to identify intra-city differences and trends, whic
 
 This comparative approach will also shed light on whether certain public health interventions or population characteristics (e.g., vaccination rates or ethnic disparities) led to divergent outcomes at the borough level compared to national and international patterns, offering insights that can be used in future pandemic preparedness efforts.
 
-# **Research Question 2: What temporal relationships exist between public health interventions (such as vaccination rollouts) and observable changes in COVID-19 incidence and mortality within NYC and globally?**
+**Research Question 2: What temporal relationships exist between public health interventions (such as vaccination rollouts) and observable changes in COVID-19 incidence and mortality within NYC and globally?**
 
 One of the most important lessons learned from the COVID-19 pandemic is the role that public health interventions, such as vaccination campaigns and social distancing measures, play in curbing the spread of infectious diseases. Understanding the temporal relationship between the introduction of these interventions and changes in COVID-19 case rates and mortality is essential for evaluating the effectiveness of different strategies.
 
@@ -57,7 +57,7 @@ In the context of New York City, there is a need to assess how interventions, su
 By extending the analysis globally, this question also allows for cross-country comparisons, which can provide insights into how different nations responded to the pandemic and what interventions were most effective under varying contexts. For instance, did early vaccination campaigns in countries like Israel or the UK show a rapid decline in cases and deaths? Were there time lags in these effects, and how did this compare to the experience of NYC? This temporal analysis is important for understanding the causality of interventions and for informing future pandemic response plans.
 
 
-# **Research Question 3: How did the intensity and accessibility of COVID-19 testing efforts vary across different boroughs, and what correlations can be observed with infection and fatality rates?**
+**Research Question 3: How did the intensity and accessibility of COVID-19 testing efforts vary across different boroughs, and what correlations can be observed with infection and fatality rates?**
 
 Testing plays a critical role in identifying and controlling the spread of infectious diseases. Early and widespread testing allows public health authorities to identify outbreaks, implement containment measures, and track the progress of the pandemic. However, testing capacity, accessibility, and frequency have varied widely, not only across countries but also within urban settings like New York City, which has vast social and economic inequalities.
 
