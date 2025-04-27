@@ -79,7 +79,14 @@ By addressing these questions, the project will illuminate disparities in health
 | **Week 4 (19/5 - 25/5)** | Advanced Visualization: Interactive Map Development and Linkage | - Develop interactive choropleth map of NYC boroughs using `leaflet`<br>- Enable dynamic linkage between map selections and dashboard outputs<br>- Add hover tooltips and popup summary statistics for boroughs | Dang Duc Dat (map development and interactivity), Chau Minh Khai (data linkage and reactivity) |
 | **Week 5 (26/5 - 30/5)** | Application Optimization, Final Documentation, and Deployment | - Conduct system-wide application testing and debugging<br>- Optimize performance for faster loading and smoother interactions<br>- Complete project report, README documentation, and user guide<br>- Deploy application via [shinyapps.io](https://www.shinyapps.io/) | Nguyen Tung Lam (application optimization), Chau Minh Khai & Dang Duc Dat (documentation, deployment) |
 
+**Key Responsibilities:**
 
+- **Nguyen Tung Lam**: Project Manager, Data Scientist, Front-End Developer 
+
+- **Chau Minh Khai**: Data Engineer, Backend Developer
+
+- **Dang Duc Dat**: Visualization Specialist, UI Developer
+  
 ## 7. Academic Contribution
 
 By focusing on fine-grained spatial and temporal analyses of the COVID-19 pandemic at the city level, this project addresses critical gaps in the existing landscape of epidemiological visualization tools. It offers methodological innovations through the integration of local and global datasets in a unified, interactive platform, enabling granular public health analysis previously unavailable in many public-facing dashboards. Furthermore, the project provides a reproducible framework that can be adapted for future pandemic responses or other urban public health challenges, thereby contributing to the growing field of open-source public health informatics.
