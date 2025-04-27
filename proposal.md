@@ -1,7 +1,7 @@
 # Project Proposal: Interactive COVID-19 Shiny Application
 
 
-## 1. High-Level Goal
+## **1. High-Level Goal**
 
 The objective of this project is to develop an interactive Shiny web application that visualizes COVID-19 epidemiological trends, with comparative global analyses, to enhance understanding of localized versus worldwide pandemic dynamics.
 
