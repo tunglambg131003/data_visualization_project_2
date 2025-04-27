@@ -1,17 +1,17 @@
 # Project Proposal: Interactive COVID-19 Shiny Application
 
 
-## High-Level Goal
+## 1. High-Level Goal
 
 The objective of this project is to develop an interactive Shiny web application that visualizes COVID-19 epidemiological trends, with comparative global analyses, to enhance understanding of localized versus worldwide pandemic dynamics.
 
 
-## Project Description
+## 2. Project Description
 
 This project proposes the design and implementation of an interactive, data-driven web application for visualizing the spatiotemporal progression of the COVID-19 pandemic in New York City, supplemented by global comparative data. The platform will feature dynamic dashboards incorporating time series analysis, spatially explicit choropleth mapping, and interactive filtering functionalities. The application will empower users to explore COVID-19 case counts, mortality rates, hospitalization trends, testing efforts, and vaccination rollouts across NYC boroughs and juxtapose these local patterns with national and international trajectories. Built with R Shiny and utilizing advanced visualization libraries such as `leaflet`, `plotly`, and `ggplot2`, this application will serve as an accessible yet powerful analytical tool for researchers, public health officials, and the general public. The final deliverable will be an open-source, web-deployed application, accompanied by a reproducible GitHub repository containing all source code, documentation, and data processing scripts.
 
 
-## Goals and Motivation
+## 3. Goals and Motivation
 
 The primary objective of this project is to develop an interactive, city-level epidemiological analysis tool that can visualize and compare COVID-19 data trends across New York City’s boroughs, with an integrated global context. This Shiny-based web application will provide a granular understanding of COVID-19 transmission, hospitalization, mortality, and recovery patterns at a spatially detailed level, with particular attention to local disparities. By offering a comprehensive visualization platform that enables users to perform comparative analyses between local, national, and international datasets, the application aims to address key questions about the heterogeneous impacts of the pandemic in urban settings.
 
@@ -19,7 +19,7 @@ Despite the wealth of data on COVID-19 available globally, the complexities of u
 
 This project is motivated by the need for accessible, interactive, and data-driven resources that can help answer pressing research questions and inform pandemic response strategies. It aims to support public health officials, researchers, and the general public in their understanding of pandemic trends and to highlight disparities across New York City’s diverse demographic groups. By addressing this gap, the project seeks to contribute to more equitable pandemic preparedness and response, particularly by enabling decision-makers to make informed choices based on city-specific epidemiological insights.
 
-## Data Sources and Collection Methodology
+## 4. Data Sources and Collection Methodology
 
 The application will integrate two authoritative and continually updated datasets:
 
@@ -36,7 +36,7 @@ Data will be accessed via direct downloads in CSV format. Comprehensive preproce
 All data processing scripts will be fully documented and reproducible within the project’s GitHub repository.
 
 
-## Research Questions
+## 5. Research Questions
 
 The project is structured around the following primary research inquiries:
 
@@ -69,7 +69,7 @@ Furthermore, this question will help identify whether unequal access to testing 
 By addressing these questions, the project will illuminate disparities in health outcomes, evaluate the impact of public health measures, and identify patterns that may inform more equitable and effective responses to future public health crises.
 
 
-## Project Timeline and Task Allocation
+## 6. Project Timeline and Task Allocation
 
 | Week | Tasks | Details | Assigned Team Member(s) |
 |:-----|:------|:--------|:-------------------------|
@@ -80,12 +80,12 @@ By addressing these questions, the project will illuminate disparities in health
 | **Week 5 (26/5 - 30/5)** | Application Optimization, Final Documentation, and Deployment | - Conduct system-wide application testing and debugging<br>- Optimize performance for faster loading and smoother interactions<br>- Complete project report, README documentation, and user guide<br>- Deploy application via [shinyapps.io](https://www.shinyapps.io/) | Nguyen Tung Lam (application optimization), Chau Minh Khai & Dang Duc Dat (documentation, deployment) |
 
 
-## Academic Contribution
+## 7. Academic Contribution
 
 By focusing on fine-grained spatial and temporal analyses of the COVID-19 pandemic at the city level, this project addresses critical gaps in the existing landscape of epidemiological visualization tools. It offers methodological innovations through the integration of local and global datasets in a unified, interactive platform, enabling granular public health analysis previously unavailable in many public-facing dashboards. Furthermore, the project provides a reproducible framework that can be adapted for future pandemic responses or other urban public health challenges, thereby contributing to the growing field of open-source public health informatics.
 
 
-## Conclusion
+## 8. Conclusion
 
 This project endeavors to build a highly interactive and analytically rigorous Shiny application that visualizes the spatial and temporal evolution of COVID-19 in New York City, with comparative global perspectives. By integrating authoritative local and international datasets, applying advanced visualization techniques, and focusing on critical research questions around spatial disparities and vaccination outcomes, the project aims to produce actionable insights for public health research and policy. 
 
