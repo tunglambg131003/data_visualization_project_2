@@ -15,7 +15,7 @@ This project is conducted as part of COMP4010-Data Visualization course at our u
   Email: [21lam.nt@vinuni.edu.vn](mailto:21lam.nt@vinuni.edu.vn)
 
 - **Dang Duc Dat**  
-  *V202100*  
+  *V202100526*  
   Email: [21dat.dd@vinuni.edu.vn](mailto:21dat.dd@vinuni.edu.vn)
 
 - **Chau Minh Khai**  
