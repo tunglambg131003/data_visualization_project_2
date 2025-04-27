@@ -1,5 +1,5 @@
 # Project Proposal: Interactive COVID-19 Shiny Application
-
+**Team Members:** Nguyen Tung Lam, Chau Minh Khai, Dang Duc Dat
 
 ## **1. High-Level Goal**
 
