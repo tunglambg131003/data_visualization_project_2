@@ -71,13 +71,13 @@ By addressing these questions, the project will illuminate disparities in health
 
 ## Project Timeline and Task Allocation
 
-| Week | Tasks | Details |
-|:-----|:------|:--------|
-| **Week 1 (24/4 - 27/4)** | Repository Initialization and Data Preprocessing | - Set up public GitHub repository<br>- Acquire datasets and conduct initial data cleaning<br>- Perform exploratory data analysis (EDA) to identify data limitations and trends<br>- Process spatial data for NYC borough mapping 
-| **Week 2 (28/4 - 7/5)** | Shiny Application Architecture and Static Dashboard Prototyping | - Establish R Shiny app structure (modularized UI and server)<br>- Design initial layout and UI mockups<br>- Implement summary statistics display (key metrics cards)<br>- Build initial static plots (time series of cases, deaths, vaccinations) |
-| **Week 3 (8/5 - 16/5)** | Implementation of Interactivity and Global Data Integration | - Integrate user input controls (date range, borough selector, variable selector)<br>- Implement reactive data filtering and dynamic plot updating<br>- Incorporate OWID global dataset and establish comparative visualizations |
-| **Week 4 (17/5 - 24/5)** | Advanced Visualization: Interactive Map Development and Linkage | - Develop interactive choropleth map of NYC boroughs using `leaflet`<br>- Enable dynamic linkage between map selections and dashboard outputs<br>- Add hover tooltips and popup summary statistics for boroughs | 
-| **Week 5 (25/5 - 30/5)** | Application Optimization, Final Documentation, and Deployment | - Conduct system-wide application testing and debugging<br>- Optimize performance for faster loading and smoother interactions<br>- Complete project report, README documentation, and user guide<br>- Deploy application via [shinyapps.io](https://www.shinyapps.io/) | 
+| Week | Tasks | Details | Assigned Team Member(s) |
+|:-----|:------|:--------|:-------------------------|
+| **Week 1** | Repository Initialization and Data Preprocessing | - Set up public GitHub repository<br>- Acquire datasets and conduct initial data cleaning<br>- Perform exploratory data analysis (EDA) to identify data limitations and trends<br>- Process spatial data for NYC borough mapping | Nguyen Tung Lam |
+| **Week 2** | Shiny Application Architecture and Static Dashboard Prototyping | - Establish R Shiny app structure (modularized UI and server)<br>- Design initial layout and UI mockups<br>- Implement summary statistics display (key metrics cards)<br>- Build initial static plots (time series of cases, deaths, vaccinations) | Nguyen Tung Lam (UI/UX development), Dang Duc Dat (initial data visualizations) |
+| **Week 3** | Implementation of Interactivity and Global Data Integration | - Integrate user input controls (date range, borough selector, variable selector)<br>- Implement reactive data filtering and dynamic plot updating<br>- Incorporate OWID global dataset and establish comparative visualizations | Chau Minh Khai (global data integration, reactive programming), Nguyen Tung Lam (user interface enhancements) |
+| **Week 4** | Advanced Visualization: Interactive Map Development and Linkage | - Develop interactive choropleth map of NYC boroughs using `leaflet`<br>- Enable dynamic linkage between map selections and dashboard outputs<br>- Add hover tooltips and popup summary statistics for boroughs | Dang Duc Dat (map development and interactivity), Chau Minh Khai (data linkage and reactivity) |
+| **Week 5** | Application Optimization, Final Documentation, and Deployment | - Conduct system-wide application testing and debugging<br>- Optimize performance for faster loading and smoother interactions<br>- Complete project report, README documentation, and user guide<br>- Deploy application via [shinyapps.io](https://www.shinyapps.io/) | Nguyen Tung Lam (application optimization), Chau Minh Khai & Dang Duc Dat (documentation, deployment) |
 
 
 ## Academic Contribution
