@@ -19,7 +19,7 @@ This project is conducted as part of COMP4010-Data Visualization course at our u
   Email: [21dat.dd@vinuni.edu.vn](mailto:21dat.dd@vinuni.edu.vn)
 
 - **Chau Minh Khai**  
-  *V202100*  
+  *V202100404*  
   Email: [21khai.cm@vinuni.edu.vn](mailto:21khai.cm@vinuni.edu.vn)
 
 Feel free to contact us with any questions, suggestions, or comments related to this project. We welcome any feedback that can help improve this work or contribute to further research in the domain of music data analysis and visualization.
