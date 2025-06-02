@@ -1,22 +1,11 @@
 ---
 title: "COVID-19 Dashboard"
 author: "Nguyen Tung Lam"
-output:
-  flexdashboard::flex_dashboard:
-    # "default", "cerulean", "journal", "flatly", "darkly", "readable", "spacelab", "united", "cosmo", "lumen", "paper", "sandstone", "simplex", "yeti"
-    theme: united
-    source_code: embed
-    orientation: rows
-    self_contained: FALSE
-    logo: ./favicon.ico
-    favicon: ./favicon.ico
-    social: menu
-    # bootstrap_version: 4
+output: pdf_document
 runtime: shiny
 ---
 
 ```{r global, include=FALSE, warning=FALSE}
-library(flexdashboard)
 library(data.table)
 library(leaflet)
 library(shiny)
