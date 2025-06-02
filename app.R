@@ -268,7 +268,7 @@ server <- function(input, output, session) {
                         
                         div(class = "image-box",
                             h4("COVID-19 Spread Simulation", style = "margin-bottom: 10px;"),
-                            img(src = "/covid_simulation.gif", 
+                            img(src = "covid_simulation.gif", 
                                 alt = "COVID-19 Spread Simulation", 
                                 style = "max-width: 100%; height: auto; border-radius: 10px; margin-top: 20px;")
                         ), 
@@ -278,7 +278,7 @@ server <- function(input, output, session) {
                         
                         div(class = "image-box",
                             h4("COVID-19 Spread Simulation with forced quarantine", style = "margin-bottom: 10px;"),
-                            img(src = "/covid_gate.gif", 
+                            img(src = "covid_gate.gif", 
                                 alt = "COVID-19 Spread Simulation with forced quarantine", 
                                 style = "max-width: 100%; height: auto; border-radius: 10px; margin-top: 20px;")
                         ),
