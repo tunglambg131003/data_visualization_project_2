@@ -44,8 +44,40 @@ Through detailed data analysis and visualization, we aim to highlight key findin
 - `generate-data.R`
 3. Run the Shiny app locally using the following script:
 - `app.R`
-4. Ensure you have all necessary dependencies installed. 
+4. Ensure you have all necessary dependencies installed.
 
+## Deploy to shinyapps.io
+
+To deploy your Shiny app to [shinyapps.io](https://www.shinyapps.io):
+
+1. Install the `rsconnect` package (if not already installed):
+
+    ```r
+    install.packages("rsconnect")
+    ```
+
+2. Load the package and set your account info (replace with your actual account details):
+
+    ```r
+    library(rsconnect)
+    rsconnect::setAccountInfo(name='yourname',
+                               token='your_token',
+                               secret='your_secret')
+    ```
+
+3. Deploy the app:
+
+    ```r
+    rsconnect::deployApp()
+    ```
+
+After deployment, your app will be accessible via the URL provided by shinyapps.io.
+
+## 🔗 Live Demo
+
+Here is our deployed product:
+
+👉 [View the Shiny App](https://data-visualization-proj2.shinyapps.io/COVID-19-Shiny-App/)
 ## Acknowledgement
 
 This project is conducted as part of COMP4010-Data Visualization course at our university. We would like to express our heartfelt appreciation to our course instructor and teaching assistants for their guidance, insightful feedback, and continued support throughout the development of this project.
