@@ -34,6 +34,7 @@ Through detailed data analysis and visualization, we aim to highlight key findin
 ├── setup.Rmd  
 └── report.pdf            # Detailed project report
 ```
+## Getting Started
 1. Clone this repository.
  ```bash
    git clone https://github.com/tunglambg131003/data_visualization_project_2.git
