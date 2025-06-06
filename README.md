@@ -34,6 +34,16 @@ Through detailed data analysis and visualization, we aim to highlight key findin
 ├── setup.Rmd  
 └── report.pdf            # Detailed project report
 ```
+1. Clone this repository.
+ ```bash
+   git clone https://github.com/tunglambg131003/data_visualization_project_2.git
+   cd data_visualization_project_2
+ ```
+2. Open the script in the `data/` directory to reproduce the dataset:
+- `generate-data.R`
+3. Run the Shiny app locally using the following script:
+- `app.R`
+4. Ensure you have all necessary dependencies installed. 
 
 ## Acknowledgement
 
