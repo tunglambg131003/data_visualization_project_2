@@ -46,7 +46,7 @@ To generate the dataset, run the following R script located in the `data/` direc
 
 ```r
 source("data/generate-data.R")
-
+```
 ---
 
 ### 5. Licensing  
