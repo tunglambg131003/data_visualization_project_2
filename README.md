@@ -2,7 +2,38 @@
 
 ## Overview
 
-The COVID-19 pandemic, caused by the SARS-CoV-2 virus, has been one of the most impactful global health crises in modern history, fundamentally altering societies, economies, and public health systems. Since its emergence in late 2019, COVID-19 has spread rapidly across the globe, leading to millions of infections and deaths. Understanding the spatial and temporal dynamics of its transmission is crucial for effective public health responses, particularly in densely populated urban areas like New York City (NYC), where variations in population density, socioeconomic status, and healthcare infrastructure exacerbate the spread of the virus. Visualizing the spread of COVID-19 provides vital insights into these dynamics, revealing patterns of infection, hospitalization, mortality, and recovery that are essential for targeted interventions. Interactive dashboards and data visualizations enable real-time analysis of pandemic trends, helping policymakers, public health officials, and the general public to track the evolution of the disease and assess the impact of public health measures such as lockdowns, vaccination rollouts, and testing strategies. This project leverages data from both local NYC sources and global datasets to create an interactive Shiny application that visualizes the spatiotemporal progression of COVID-19, providing a comparative analysis between local and global trends. By focusing on NYC, a city with diverse demographic characteristics and a complex healthcare system, this project aims to uncover disparities in pandemic outcomes and contribute to more informed decision-making, ultimately promoting more equitable and effective public health interventions.
+The outbreak of the COVID-19 pandemic in late 2019 marked the beginning of an unprecedented global health crisis. The novel coronavirus (SARS-CoV-2) rapidly spread across countries and continents, severely challenging public health systems, economies, and societal structures. In response to this evolving emergency, accurate and up-to-date data became essential for governments, researchers, healthcare professionals, and the general public to make informed decisions and implement effective containment strategies.
+
+However, the massive volume and complexity of pandemic-related data presented considerable challenges. As case numbers, death rates, and testing metrics surged globally, many stakeholders lacked the tools to efficiently analyze and interpret this rapidly changing information. Traditional tabular reports or static charts often failed to capture the multidimensional, dynamic nature of the pandemic, especially when users sought to understand temporal and geographic trends simultaneously.
+
+To address this issue, our project aims to develop an interactive, user-friendly data visualization tool using the `Shiny` web application framework in `RStudio`. This tool is designed to help users explore the progression of COVID-19 across time and space through a set of intuitive and customizable visualizations. The primary goal is to bridge the gap between raw epidemiological data and actionable insight, enabling users — whether technical or non-technical — to observe patterns, compare regions, and understand the impact of the pandemic over time.
+
+We explore two main research questions:
+
+- Question 1: How does a nation's economic capacity influence its ability to respond to and recover from the COVID-19 pandemic across different continents?
+- Question 2: What patterns can be observed in the rise, peak, and decline of COVID-19 cases across nations, and how can visualizations of these trends help identify commonalities in effective public health responses that contributed to minimizing outbreaks?
+
+Through detailed data analysis and visualization, we aim to highlight key findings in a compelling and accessible manner, allowing both public health professionals and general audiences to gain fresh perspectives on the progression and impact of the COVID-19 pandemic.
+
+## Repository Structure
+
+```
+.
+├── Research Question 1/        # Addition for Research Question 1
+├── data/               # Dataset 
+│   ├── README.md     
+│   ├── generate-data.R
+├── www/               # Public images
+│   ├── covid-gate.gif    
+│   ├── logo.png
+│   ├── covid-simulation.gif   
+├── presentation.pdf     # Project presentation slides
+├── proposal.md          # Project proposal
+├── app.R          
+├── README.md
+├── setup.Rmd  
+└── report.pdf            # Detailed project report
+```
 
 ## Acknowledgement
 
