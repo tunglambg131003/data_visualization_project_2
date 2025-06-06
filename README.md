@@ -77,7 +77,7 @@ After deployment, your app will be accessible via the URL provided by shinyapps.
 
 Here is our deployed product:
 
-👉 [View the Shiny App](https://data-visualization-proj2.shinyapps.io/COVID-19-Shiny-App/)
+👉 [View our product](https://data-visualization-proj2.shinyapps.io/COVID-19-Shiny-App/)
 ## Acknowledgement
 
 This project is conducted as part of COMP4010-Data Visualization course at our university. We would like to express our heartfelt appreciation to our course instructor and teaching assistants for their guidance, insightful feedback, and continued support throughout the development of this project.
